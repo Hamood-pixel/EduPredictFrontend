@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/128/external-education-high-school-and-college-flatart-icons-outline-flatarticons.png" alt="Logo" width="80">
   <h1>🎓 EduPredict</h1>
   <p><strong>Predictive Analytics for Student Retention & Academic Success</strong></p>
   
@@ -71,6 +69,3 @@ docker run -p 5173:5173 edupredict-app</code></pre>
 
 <hr />
 
-<div align="center">
-  <p>Developed with ❤️ for Academic Excellence</p>
-</div>
