@@ -1,10 +1,11 @@
   <h1>🎓 EduPredict</h1>
   <p><strong>Predictive Analytics for Student Retention & Academic Success</strong></p>
-  
+  <p align = "centre">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 </div>
 
 <hr />
